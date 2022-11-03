@@ -1,5 +1,5 @@
 from flask import Flask, jsonify,request
-from sklearn import svm
+# from sklearn import svm
 import numpy as np
 import pandas as pd
 import pickle
